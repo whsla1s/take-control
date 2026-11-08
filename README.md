@@ -161,14 +161,4 @@ accounts · core · dashboard · tasks · finance · projects · studies · cale
 - [ ] Busca global
 - [ ] Personalização dos widgets do dashboard
 
-## Código-fonte e licença
 
-O código-fonte **não é público**. Este repositório é protegido por direitos autorais:
-**todos os direitos reservados** (veja [LICENSE](LICENSE)). Textos, imagens e design não podem ser copiados
-ou reutilizados sem autorização por escrito.
-
-## Autoria
-
-Projeto autoral de **[SEU NOME]** — [LinkedIn](https://www.linkedin.com/in/SEU_PERFIL) · [GitHub](https://github.com/SEU_USUARIO)
-
-© 2026 [SEU NOME]. Todos os direitos reservados.
