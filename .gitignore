@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.env
+*.sqlite3
+venv/
+__pycache__/
